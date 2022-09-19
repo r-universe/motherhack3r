@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mitre",
+    "oncran": true
+  }
+]
